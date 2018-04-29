@@ -18,7 +18,7 @@ $ export PATH="YOUR_PATH_WITHOUT_TRAILING_SLASH:$PATH"
 
 ## Give the right permissions
 
-To your system knows that your script is executable, you must give it *execute permission*:
+Your system needs to know that your script is executable, you must give it *execute permission* then:
 
 ```bash
 $ chmod +x /path/for/your/script

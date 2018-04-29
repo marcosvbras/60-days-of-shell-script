@@ -33,4 +33,4 @@ $ sh file.sh
 
 | Day | Title      |
 | --- |:----------:|
-| 001 | []() |
+| 001 | [Hello there](day001/) |
