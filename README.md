@@ -20,8 +20,14 @@ Writing code that works is easy (most of the time). But writing efficient, clear
 
 With **Shell Script** I can find ways to simplify my life. As a developer, it is natural to want automate things, this is our job, right?
 
+So, **let's code**?
+
+<p align="center">
+  <img src="https://raw.github.com/marcosvbras/60-days-of-shell-script/master/images/programming.gif" alt="Custom image"/>
+</p>
+
 ## Helpers
-1.  [Tips](tips.md)
+1.  [Running Tips](running_tips.md)
 
 ## Usage
 
@@ -33,4 +39,5 @@ $ sh file.sh
 
 | Day | Title      |
 | --- |:----------:|
-| 001 | [Hello there](day001/) |
+| 001 | [Hello there](scripts/day001_hello.sh) |
+| 002 | [Variables](scripts/day002_variables.sh) |

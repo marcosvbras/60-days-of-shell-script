@@ -1,6 +1,6 @@
-# Tips
+# Running Tips
 
-## Where to put my scripts
+## Where to put my scripts?
 
 If you want your script to be executed from whatever place in your system, move it to a directory that is in your **PATH** variable.
 
