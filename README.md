@@ -41,3 +41,4 @@ $ sh file.sh
 | --- |:----------:|
 | 001 | [Hello there](scripts/day001_hello.sh) |
 | 002 | [Variables](scripts/day002_variables.sh) |
+| 003 | [Receiving Parameters](scripts/day003_parameters.sh) |
