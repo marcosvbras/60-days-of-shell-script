@@ -14,9 +14,15 @@ This project is a piece of a series called **X Days Of Something**, which one in
 -   [100 Days Of Kotlin](https://github.com/marcosvbras/100-days-of-kotlin)
 -   [100 Days Of Swift](https://github.com/marcosvbras/100-days-of-swift)
 
-## Why am I doing this? Why Shell Script?
+## Why am I doing this?
 
 Writing code that works is easy (most of the time). But writing efficient, clear, concise, scalable, and maintainable code is very difficult. It may be better with a lot of practice in various types of problems and paradigms, in addition to having mastery of the language you are coding.
+
+<p align="center">
+  <img src="https://raw.github.com/marcosvbras/60-days-of-shell-script/master/images/makes_sense.gif" alt="Custom image"/>
+</p>
+
+## Why Shell Script?
 
 With **Shell Script** I can find ways to simplify my life. As a developer, it is natural to want automate things, this is our job, right?
 
@@ -42,3 +48,4 @@ $ sh file.sh
 | 001 | [Hello there](scripts/day001_hello.sh) |
 | 002 | [Variables](scripts/day002_variables.sh) |
 | 003 | [Receiving Parameters](scripts/day003_parameters.sh) |
+| 004 | [Doing Calculations](scripts/day004_doing_calculations.sh) |
