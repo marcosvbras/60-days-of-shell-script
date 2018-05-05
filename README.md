@@ -49,3 +49,5 @@ $ sh file.sh
 | 002 | [Variables](scripts/day002_variables.sh) |
 | 003 | [Receiving Parameters](scripts/day003_parameters.sh) |
 | 004 | [Doing Calculations](scripts/day004_doing_calculations.sh) |
+| 005 | [Conditions I](scripts/day005_conditions.sh) |
+| 006 | [Conditions II](scripts/day006_conditions2.sh) |
